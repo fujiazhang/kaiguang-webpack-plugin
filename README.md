@@ -7,6 +7,10 @@
 
 
 ## 安装
+ 
+ NPM安装
+
+``npm i kaiguang-webpack-plugin --save-dev``
 
 ## 范围
 * 默认会打包构建后的所有js文件添加
@@ -16,7 +20,7 @@
 
 1.首先引入 ``const KaiguangPlugin = require('kaiguang-webpack-plugin')``
 
-2.配置到插件数组，添加
+2.配置到插件数组添加参数，如：
 `plugins:[
   new AddKaiguangPlugin({})
 ]`
