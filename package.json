@@ -1,0 +1,28 @@
+{
+  "name": "kaiguang-webpack-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./index.js'",
+  "directories": {
+    "test": "webpack"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "webpack": "^4.44.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fujiazhang/kaiguang-webpack-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fujiazhang/kaiguang-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/fujiazhang/kaiguang-webpack-plugin#readme"
+}
